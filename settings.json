@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ant-SMP.aternos.me",
+    "ip": "lamprey.aternos.host",
     "port": 15810,
     "version": "1.21.1"
   },
