@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lamprey.aternos.host",
+    "ip": "louvar.aternos.host",
     "port": 15810,
     "version": "1.21.1"
   },
